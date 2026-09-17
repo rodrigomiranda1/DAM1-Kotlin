@@ -1,0 +1,75 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources xmlns:ns1="http://schemas.android.com/tools">
+    <color name="azul_oscuro">#0E2A47</color>
+    <color name="azul_principal">#1F5FAE</color>
+    <color name="blanco">#FFFFFF</color>
+    <color name="blanco_suave">#EAF3FF</color>
+    <color name="celeste_suave">#DCEBFF</color>
+    <color name="estado_fondo">#D7E8FF</color>
+    <color name="gris_borde">#C9D7E6</color>
+    <color name="gris_hint">#8292A4</color>
+    <color name="gris_texto">#556274</color>
+    <color name="negro">#000000</color>
+    <color name="superficie">#F8FBFF</color>
+    <color name="superficie_fuerte">#EEF5FF</color>
+    <dimen name="badge_horizontal_padding">12dp</dimen>
+    <dimen name="badge_vertical_padding">6dp</dimen>
+    <dimen name="card_padding">20dp</dimen>
+    <dimen name="field_padding">16dp</dimen>
+    <dimen name="screen_padding">20dp</dimen>
+    <string name="app_name">ServiceGo</string>
+    <string name="boton_registrar">Registrar servicio</string>
+    <string name="codigo_generico">SG-0001</string>
+    <string name="codigo_preliminar_formato">Código preliminar: %1$s</string>
+    <string name="costo_base_inicial">Pendiente</string>
+    <string name="costo_estimado_formato">Costo estimado: %1$s</string>
+    <string name="error_cliente_requerido">Ingrese el nombre del cliente</string>
+    <string name="error_descripcion_corta">Describa el trabajo con al menos 8 caracteres</string>
+    <string name="error_descripcion_requerida">Ingrese la descripción del servicio</string>
+    <string name="error_direccion_requerida">Ingrese la dirección del servicio</string>
+    <string name="estado_listo">Listo para registrar</string>
+    <string name="estado_pendiente">Borrador</string>
+    <string name="estado_registrado">Registrado</string>
+    <string name="hint_cliente">Ejemplo: Clínica San Gabriel</string>
+    <string name="hint_descripcion">Ejemplo: Revisión inicial de impresora y red local</string>
+    <string name="hint_direccion">Ejemplo: Av. Los Técnicos 245, Lima</string>
+    <string name="indicadores_iniciales">Tiempo estimado: pendiente | Tipo: por definir | Modalidad: por definir</string>
+    <string name="indicadores_operativos_formato">Tiempo estimado: %1$s h | Tipo: %2$s | Modalidad: %3$s</string>
+    <string name="label_cliente">Cliente</string>
+    <string name="label_descripcion">Descripción</string>
+    <string name="label_direccion">Dirección</string>
+    <string name="mensaje_estimacion_previa">Estimación preliminar basada en %1$s detectado en la descripción.</string>
+    <string name="mensaje_inicial">Complete los datos para generar una estimación inicial del servicio.</string>
+    <string name="mensaje_registro_exitoso">Servicio %1$s preparado para revisión.</string>
+    <string name="mensaje_validacion_basica">Complete cliente, descripción y dirección para registrar el servicio.</string>
+    <string name="modalidad_prioritaria">Prioritaria</string>
+    <string name="modalidad_programada">Programada</string>
+    <string name="resumen_actualizado_titulo">Servicio listo para revisión</string>
+    <string name="resumen_cliente_formato">Cliente: %1$s</string>
+    <string name="resumen_cliente_placeholder">Cliente: pendiente</string>
+    <string name="resumen_descripcion_formato">Descripción: %1$s</string>
+    <string name="resumen_descripcion_placeholder">Descripción: pendiente</string>
+    <string name="resumen_direccion_formato">Dirección: %1$s</string>
+    <string name="resumen_direccion_placeholder">Dirección: pendiente</string>
+    <string name="resumen_inicial_titulo">Vista previa del servicio</string>
+    <string name="seccion_formulario">Datos del servicio</string>
+    <string name="seccion_formulario_descripcion">Registre los datos iniciales del cliente y del trabajo solicitado.</string>
+    <string name="sin_dato">Sin dato ingresado</string>
+    <string name="subtitulo_principal">Complete la información principal del servicio para revisar la atención antes de continuar.</string>
+    <string name="tipo_servicio_diagnostico">Diagnóstico general</string>
+    <string name="tipo_servicio_impresion">Soporte de impresión</string>
+    <string name="tipo_servicio_instalacion">Instalación técnica</string>
+    <string name="tipo_servicio_mixto">Atención mixta</string>
+    <string name="tipo_servicio_red">Soporte de red</string>
+    <string name="titulo_principal">Registro básico de servicios</string>
+    <style name="Base.Theme.ServiceGo" parent="Theme.Material3.Light.NoActionBar">
+        <item name="colorPrimary">@color/azul_principal</item>
+        <item name="colorOnPrimary">@color/blanco</item>
+        <item name="colorSecondary">@color/celeste_suave</item>
+        <item name="colorOnSecondary">@color/azul_oscuro</item>
+        <item name="android:statusBarColor">@color/azul_oscuro</item>
+        <item name="android:navigationBarColor">@color/blanco</item>
+        <item name="android:windowLightStatusBar" ns1:targetApi="m">false</item>
+    </style>
+    <style name="Theme.ServiceGo" parent="Base.Theme.ServiceGo"/>
+</resources>

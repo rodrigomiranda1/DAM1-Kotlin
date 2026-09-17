@@ -1,0 +1,13 @@
+<resources xmlns:tools="http://schemas.android.com/tools">
+    <style name="Base.Theme.ServiceGo" parent="Theme.Material3.Light.NoActionBar">
+        <item name="colorPrimary">@color/azul_principal</item>
+        <item name="colorOnPrimary">@color/blanco</item>
+        <item name="colorSecondary">@color/celeste_suave</item>
+        <item name="colorOnSecondary">@color/azul_oscuro</item>
+        <item name="android:statusBarColor">@color/azul_oscuro</item>
+        <item name="android:navigationBarColor">@color/blanco</item>
+        <item name="android:windowLightStatusBar" tools:targetApi="m">false</item>
+    </style>
+
+    <style name="Theme.ServiceGo" parent="Base.Theme.ServiceGo" />
+</resources>

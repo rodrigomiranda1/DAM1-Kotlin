@@ -1,0 +1,86 @@
+[
+    {
+        "merged": "com.cibertec.servicego.app-debug-36:/mipmap-xxxhdpi_ic_launcher.webp.flat",
+        "source": "com.cibertec.servicego.app-main-38:/mipmap-xxxhdpi/ic_launcher.webp"
+    },
+    {
+        "merged": "com.cibertec.servicego.app-debug-36:/mipmap-hdpi_ic_launcher.webp.flat",
+        "source": "com.cibertec.servicego.app-main-38:/mipmap-hdpi/ic_launcher.webp"
+    },
+    {
+        "merged": "com.cibertec.servicego.app-debug-36:/mipmap-hdpi_ic_launcher_round.webp.flat",
+        "source": "com.cibertec.servicego.app-main-38:/mipmap-hdpi/ic_launcher_round.webp"
+    },
+    {
+        "merged": "com.cibertec.servicego.app-debug-36:/drawable_bg_screen_servicego.xml.flat",
+        "source": "com.cibertec.servicego.app-main-38:/drawable/bg_screen_servicego.xml"
+    },
+    {
+        "merged": "com.cibertec.servicego.app-debug-36:/mipmap-anydpi_ic_launcher.xml.flat",
+        "source": "com.cibertec.servicego.app-main-38:/mipmap-anydpi/ic_launcher.xml"
+    },
+    {
+        "merged": "com.cibertec.servicego.app-debug-36:/mipmap-xhdpi_ic_launcher.webp.flat",
+        "source": "com.cibertec.servicego.app-main-38:/mipmap-xhdpi/ic_launcher.webp"
+    },
+    {
+        "merged": "com.cibertec.servicego.app-debug-36:/drawable_ic_launcher_background.xml.flat",
+        "source": "com.cibertec.servicego.app-main-38:/drawable/ic_launcher_background.xml"
+    },
+    {
+        "merged": "com.cibertec.servicego.app-debug-36:/drawable_bg_surface_panel.xml.flat",
+        "source": "com.cibertec.servicego.app-main-38:/drawable/bg_surface_panel.xml"
+    },
+    {
+        "merged": "com.cibertec.servicego.app-debug-36:/drawable_ic_launcher_foreground.xml.flat",
+        "source": "com.cibertec.servicego.app-main-38:/drawable/ic_launcher_foreground.xml"
+    },
+    {
+        "merged": "com.cibertec.servicego.app-debug-36:/mipmap-mdpi_ic_launcher.webp.flat",
+        "source": "com.cibertec.servicego.app-main-38:/mipmap-mdpi/ic_launcher.webp"
+    },
+    {
+        "merged": "com.cibertec.servicego.app-debug-36:/layout_activity_main.xml.flat",
+        "source": "com.cibertec.servicego.app-main-38:/layout/activity_main.xml"
+    },
+    {
+        "merged": "com.cibertec.servicego.app-debug-36:/mipmap-xhdpi_ic_launcher_round.webp.flat",
+        "source": "com.cibertec.servicego.app-main-38:/mipmap-xhdpi/ic_launcher_round.webp"
+    },
+    {
+        "merged": "com.cibertec.servicego.app-debug-36:/mipmap-xxhdpi_ic_launcher.webp.flat",
+        "source": "com.cibertec.servicego.app-main-38:/mipmap-xxhdpi/ic_launcher.webp"
+    },
+    {
+        "merged": "com.cibertec.servicego.app-debug-36:/drawable_bg_field.xml.flat",
+        "source": "com.cibertec.servicego.app-main-38:/drawable/bg_field.xml"
+    },
+    {
+        "merged": "com.cibertec.servicego.app-debug-36:/drawable_bg_panel_hero.xml.flat",
+        "source": "com.cibertec.servicego.app-main-38:/drawable/bg_panel_hero.xml"
+    },
+    {
+        "merged": "com.cibertec.servicego.app-debug-36:/mipmap-anydpi_ic_launcher_round.xml.flat",
+        "source": "com.cibertec.servicego.app-main-38:/mipmap-anydpi/ic_launcher_round.xml"
+    },
+    {
+        "merged": "com.cibertec.servicego.app-debug-36:/mipmap-mdpi_ic_launcher_round.webp.flat",
+        "source": "com.cibertec.servicego.app-main-38:/mipmap-mdpi/ic_launcher_round.webp"
+    },
+    {
+        "merged": "com.cibertec.servicego.app-debug-36:/mipmap-xxxhdpi_ic_launcher_round.webp.flat",
+        "source": "com.cibertec.servicego.app-main-38:/mipmap-xxxhdpi/ic_launcher_round.webp"
+    },
+    {
+        "merged": "com.cibertec.servicego.app-debug-36:/drawable_bg_estado_chip.xml.flat",
+        "source": "com.cibertec.servicego.app-main-38:/drawable/bg_estado_chip.xml"
+    },
+    {
+        "merged": "com.cibertec.servicego.app-debug-36:/drawable_bg_soft_badge.xml.flat",
+        "source": "com.cibertec.servicego.app-main-38:/drawable/bg_soft_badge.xml"
+    },
+    {
+        "merged": "com.cibertec.servicego.app-debug-36:/mipmap-xxhdpi_ic_launcher_round.webp.flat",
+        "source": "com.cibertec.servicego.app-main-38:/mipmap-xxhdpi/ic_launcher_round.webp"
+    }
+]

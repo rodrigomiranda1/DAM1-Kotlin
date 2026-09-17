@@ -1,0 +1,40 @@
+com.cibertec.servicego.app-lifecycle-viewmodel-2.6.2-0 C:\Users\SUITE\.gradle\caches\8.13\transforms\0bc737914a8256109dba23a5588787b1\transformed\lifecycle-viewmodel-2.6.2\res
+com.cibertec.servicego.app-savedstate-1.2.1-1 C:\Users\SUITE\.gradle\caches\8.13\transforms\0ea9a5e6a39d209874bf2ba2dc4dfa34\transformed\savedstate-1.2.1\res
+com.cibertec.servicego.app-tracing-1.2.0-2 C:\Users\SUITE\.gradle\caches\8.13\transforms\16d9a6e73a6e78a287e4dfbf245ed7d4\transformed\tracing-1.2.0\res
+com.cibertec.servicego.app-fragment-1.5.4-3 C:\Users\SUITE\.gradle\caches\8.13\transforms\173aa1bcd61626c3bca747b2052c3934\transformed\fragment-1.5.4\res
+com.cibertec.servicego.app-profileinstaller-1.4.0-4 C:\Users\SUITE\.gradle\caches\8.13\transforms\190d0ab972e26e37e100396ccb475e75\transformed\profileinstaller-1.4.0\res
+com.cibertec.servicego.app-material-1.14.0-5 C:\Users\SUITE\.gradle\caches\8.13\transforms\23f079e62d2431c918dd6681274e910d\transformed\material-1.14.0\res
+com.cibertec.servicego.app-appcompat-resources-1.7.1-6 C:\Users\SUITE\.gradle\caches\8.13\transforms\3c2579f9ae29f1e7057aed9fc69780bd\transformed\appcompat-resources-1.7.1\res
+com.cibertec.servicego.app-core-viewtree-1.0.0-7 C:\Users\SUITE\.gradle\caches\8.13\transforms\4549075bdf55fc4fc86c2e9086a71bdb\transformed\core-viewtree-1.0.0\res
+com.cibertec.servicego.app-cardview-1.0.0-8 C:\Users\SUITE\.gradle\caches\8.13\transforms\4b69cdbc555c9203cb6ea29b2ceb6a10\transformed\cardview-1.0.0\res
+com.cibertec.servicego.app-constraintlayout-2.2.1-9 C:\Users\SUITE\.gradle\caches\8.13\transforms\4c2a53537830f228d09dd4e7f9c4ae54\transformed\constraintlayout-2.2.1\res
+com.cibertec.servicego.app-lifecycle-livedata-core-2.6.2-10 C:\Users\SUITE\.gradle\caches\8.13\transforms\4ec05a00a12b95cfe85f0ad60f699874\transformed\lifecycle-livedata-core-2.6.2\res
+com.cibertec.servicego.app-transition-1.5.0-11 C:\Users\SUITE\.gradle\caches\8.13\transforms\4fa0480161f33a58c46780e1c0b0578b\transformed\transition-1.5.0\res
+com.cibertec.servicego.app-viewpager2-1.0.0-12 C:\Users\SUITE\.gradle\caches\8.13\transforms\6533210a44a41eeec7c639f4b830f643\transformed\viewpager2-1.0.0\res
+com.cibertec.servicego.app-customview-1.2.0-13 C:\Users\SUITE\.gradle\caches\8.13\transforms\6c9d1f98cdb4395a2f000e61b74eb189\transformed\customview-1.2.0\res
+com.cibertec.servicego.app-coordinatorlayout-1.1.0-14 C:\Users\SUITE\.gradle\caches\8.13\transforms\840e558f7c3688b2e46bb0a2ed8677b6\transformed\coordinatorlayout-1.1.0\res
+com.cibertec.servicego.app-appcompat-1.7.1-15 C:\Users\SUITE\.gradle\caches\8.13\transforms\971ff069554dee368c692a7eac4e8dbd\transformed\appcompat-1.7.1\res
+com.cibertec.servicego.app-core-1.18.0-16 C:\Users\SUITE\.gradle\caches\8.13\transforms\a42460caf2797a025784f62a79b90ab9\transformed\core-1.18.0\res
+com.cibertec.servicego.app-emoji2-1.3.0-17 C:\Users\SUITE\.gradle\caches\8.13\transforms\ad91613c185d1767dd7159b1f2153489\transformed\emoji2-1.3.0\res
+com.cibertec.servicego.app-annotation-experimental-1.4.1-18 C:\Users\SUITE\.gradle\caches\8.13\transforms\ade49ab1eb66b2e61dae5ed58e1cc71b\transformed\annotation-experimental-1.4.1\res
+com.cibertec.servicego.app-emoji2-views-helper-1.3.0-19 C:\Users\SUITE\.gradle\caches\8.13\transforms\b09a83d7c7bb4bb90e7b6668cdf59887\transformed\emoji2-views-helper-1.3.0\res
+com.cibertec.servicego.app-lifecycle-process-2.6.2-20 C:\Users\SUITE\.gradle\caches\8.13\transforms\bc3242afb3b32ccd784cf7dd5c229486\transformed\lifecycle-process-2.6.2\res
+com.cibertec.servicego.app-activity-1.8.0-21 C:\Users\SUITE\.gradle\caches\8.13\transforms\c0b87842a6d7774c801a6fc0c7e534f9\transformed\activity-1.8.0\res
+com.cibertec.servicego.app-lifecycle-livedata-2.6.2-22 C:\Users\SUITE\.gradle\caches\8.13\transforms\c8a6b007e61b34b1765e4f8ad13e2f16\transformed\lifecycle-livedata-2.6.2\res
+com.cibertec.servicego.app-lifecycle-viewmodel-savedstate-2.6.2-23 C:\Users\SUITE\.gradle\caches\8.13\transforms\cdbca87f5eef327561d3bb9c9e5fc80d\transformed\lifecycle-viewmodel-savedstate-2.6.2\res
+com.cibertec.servicego.app-lifecycle-runtime-2.6.2-24 C:\Users\SUITE\.gradle\caches\8.13\transforms\da3b166c3d3bc9e0dce5eb5f2ea19852\transformed\lifecycle-runtime-2.6.2\res
+com.cibertec.servicego.app-drawerlayout-1.1.1-25 C:\Users\SUITE\.gradle\caches\8.13\transforms\db7b3b91db0120f3c89c3d88abc8b36c\transformed\drawerlayout-1.1.1\res
+com.cibertec.servicego.app-core-ktx-1.18.0-26 C:\Users\SUITE\.gradle\caches\8.13\transforms\e8012060620328bafd40e33e4e53e465\transformed\core-ktx-1.18.0\res
+com.cibertec.servicego.app-startup-runtime-1.1.1-27 C:\Users\SUITE\.gradle\caches\8.13\transforms\eb6e84929535e5d2a41c0a220410ed62\transformed\startup-runtime-1.1.1\res
+com.cibertec.servicego.app-dynamicanimation-1.1.0-28 C:\Users\SUITE\.gradle\caches\8.13\transforms\f0eb6a13c85dacdaacb948d100c11cfd\transformed\dynamicanimation-1.1.0\res
+com.cibertec.servicego.app-recyclerview-1.2.1-29 C:\Users\SUITE\.gradle\caches\8.13\transforms\f30cfab01670381fdb602558c023ce80\transformed\recyclerview-1.2.1\res
+com.cibertec.servicego.app-graphics-shapes-release-30 C:\Users\SUITE\.gradle\caches\8.13\transforms\f424959328ca62459194ecd83c0906f6\transformed\graphics-shapes-release\res
+com.cibertec.servicego.app-core-runtime-2.2.0-31 C:\Users\SUITE\.gradle\caches\8.13\transforms\f52677beae59208d230076a4cd8c7061\transformed\core-runtime-2.2.0\res
+com.cibertec.servicego.app-pngs-32 D:\COELLO\3875 - M - S\clase3\Plantilla_Checkpoint_01_Activity_Completo_Alumnos\Plantilla_Checkpoint_01_Activity_Completo\app\build\generated\res\pngs\debug
+com.cibertec.servicego.app-resValues-33 D:\COELLO\3875 - M - S\clase3\Plantilla_Checkpoint_01_Activity_Completo_Alumnos\Plantilla_Checkpoint_01_Activity_Completo\app\build\generated\res\resValues\debug
+com.cibertec.servicego.app-updated_navigation_xml-34 D:\COELLO\3875 - M - S\clase3\Plantilla_Checkpoint_01_Activity_Completo_Alumnos\Plantilla_Checkpoint_01_Activity_Completo\app\build\generated\updated_navigation_xml\debug
+com.cibertec.servicego.app-packageDebugResources-35 D:\COELLO\3875 - M - S\clase3\Plantilla_Checkpoint_01_Activity_Completo_Alumnos\Plantilla_Checkpoint_01_Activity_Completo\app\build\intermediates\incremental\debug\packageDebugResources\merged.dir
+com.cibertec.servicego.app-packageDebugResources-36 D:\COELLO\3875 - M - S\clase3\Plantilla_Checkpoint_01_Activity_Completo_Alumnos\Plantilla_Checkpoint_01_Activity_Completo\app\build\intermediates\incremental\debug\packageDebugResources\stripped.dir
+com.cibertec.servicego.app-debug-37 D:\COELLO\3875 - M - S\clase3\Plantilla_Checkpoint_01_Activity_Completo_Alumnos\Plantilla_Checkpoint_01_Activity_Completo\app\build\intermediates\merged_res\debug\mergeDebugResources
+com.cibertec.servicego.app-debug-38 D:\COELLO\3875 - M - S\clase3\Plantilla_Checkpoint_01_Activity_Completo_Alumnos\Plantilla_Checkpoint_01_Activity_Completo\app\src\debug\res
+com.cibertec.servicego.app-main-39 D:\COELLO\3875 - M - S\clase3\Plantilla_Checkpoint_01_Activity_Completo_Alumnos\Plantilla_Checkpoint_01_Activity_Completo\app\src\main\res

@@ -1,0 +1,241 @@
+<?xml version="1.0" encoding="utf-8"?>
+<androidx.core.widget.NestedScrollView xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="@drawable/bg_screen_servicego"
+    tools:context=".MainActivity">
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:orientation="vertical"
+        android:padding="@dimen/screen_padding">
+
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:background="@drawable/bg_panel_hero"
+            android:orientation="vertical"
+            android:padding="@dimen/card_padding">
+
+            <TextView
+                android:id="@+id/textViewTituloPrincipal"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:text="@string/titulo_principal"
+                android:textColor="@color/blanco"
+                android:textSize="28sp"
+                android:textStyle="bold" />
+
+            <TextView
+                android:id="@+id/textViewSubtitulo"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:layout_marginTop="8dp"
+                android:text="@string/subtitulo_principal"
+                android:textColor="@color/blanco_suave"
+                android:textSize="15sp" />
+        </LinearLayout>
+
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_marginTop="16dp"
+            android:background="@drawable/bg_surface_panel"
+            android:orientation="vertical"
+            android:padding="@dimen/card_padding">
+
+            <TextView
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:text="@string/seccion_formulario"
+                android:textColor="@color/azul_oscuro"
+                android:textSize="20sp"
+                android:textStyle="bold" />
+
+            <TextView
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:layout_marginTop="6dp"
+                android:text="@string/seccion_formulario_descripcion"
+                android:textColor="@color/gris_texto"
+                android:textSize="14sp" />
+
+            <TextView
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:layout_marginTop="18dp"
+                android:text="@string/label_cliente"
+                android:textColor="@color/azul_oscuro"
+                android:textStyle="bold" />
+
+            <EditText
+                android:id="@+id/editTextCliente"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:layout_marginTop="8dp"
+                android:background="@drawable/bg_field"
+                android:hint="@string/hint_cliente"
+                android:inputType="textCapWords"
+                android:minHeight="56dp"
+                android:padding="@dimen/field_padding"
+                android:textColor="@color/azul_oscuro"
+                android:textColorHint="@color/gris_hint" />
+
+            <TextView
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:layout_marginTop="16dp"
+                android:text="@string/label_descripcion"
+                android:textColor="@color/azul_oscuro"
+                android:textStyle="bold" />
+
+            <EditText
+                android:id="@+id/editTextDescripcion"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:layout_marginTop="8dp"
+                android:background="@drawable/bg_field"
+                android:gravity="top|start"
+                android:hint="@string/hint_descripcion"
+                android:inputType="textCapSentences|textMultiLine"
+                android:minHeight="96dp"
+                android:padding="@dimen/field_padding"
+                android:textColor="@color/azul_oscuro"
+                android:textColorHint="@color/gris_hint" />
+
+            <TextView
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:layout_marginTop="16dp"
+                android:text="@string/label_direccion"
+                android:textColor="@color/azul_oscuro"
+                android:textStyle="bold" />
+
+            <EditText
+                android:id="@+id/editTextDireccion"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:layout_marginTop="8dp"
+                android:background="@drawable/bg_field"
+                android:hint="@string/hint_direccion"
+                android:inputType="textCapWords|textPostalAddress"
+                android:minHeight="56dp"
+                android:padding="@dimen/field_padding"
+                android:textColor="@color/azul_oscuro"
+                android:textColorHint="@color/gris_hint" />
+
+            <Button
+                android:id="@+id/buttonRegistrarServicio"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:layout_marginTop="22dp"
+                android:backgroundTint="@color/azul_principal"
+                android:minHeight="56dp"
+                android:text="@string/boton_registrar"
+                android:textAllCaps="false"
+                android:textColor="@color/blanco"
+                android:textStyle="bold" />
+        </LinearLayout>
+
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_marginTop="16dp"
+            android:background="@drawable/bg_surface_panel"
+            android:orientation="vertical"
+            android:padding="@dimen/card_padding">
+
+            <TextView
+                android:id="@+id/textViewResumenTitulo"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:text="@string/resumen_inicial_titulo"
+                android:textColor="@color/azul_oscuro"
+                android:textSize="20sp"
+                android:textStyle="bold" />
+
+            <TextView
+                android:id="@+id/textViewMensajeVisible"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:layout_marginTop="10dp"
+                android:text="@string/mensaje_inicial"
+                android:textColor="@color/gris_texto"
+                android:textSize="14sp" />
+
+            <TextView
+                android:id="@+id/textViewResumenCliente"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:layout_marginTop="18dp"
+                android:text="@string/resumen_cliente_placeholder"
+                android:textColor="@color/azul_oscuro"
+                android:textSize="16sp" />
+
+            <TextView
+                android:id="@+id/textViewResumenDescripcion"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:layout_marginTop="10dp"
+                android:text="@string/resumen_descripcion_placeholder"
+                android:textColor="@color/azul_oscuro"
+                android:textSize="16sp" />
+
+            <TextView
+                android:id="@+id/textViewResumenDireccion"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:layout_marginTop="10dp"
+                android:text="@string/resumen_direccion_placeholder"
+                android:textColor="@color/azul_oscuro"
+                android:textSize="16sp" />
+
+            <TextView
+                android:id="@+id/textViewEstadoRegistro"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_marginTop="18dp"
+                android:background="@drawable/bg_estado_chip"
+                android:paddingStart="14dp"
+                android:paddingTop="8dp"
+                android:paddingEnd="14dp"
+                android:paddingBottom="8dp"
+                android:text="@string/estado_pendiente"
+                android:textColor="@color/azul_oscuro"
+                android:textStyle="bold" />
+
+            <TextView
+                android:id="@+id/textViewCodigoPreliminar"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:layout_marginTop="18dp"
+                android:text="@string/codigo_preliminar_formato"
+                android:textColor="@color/azul_principal"
+                android:textSize="16sp"
+                android:textStyle="bold" />
+
+            <TextView
+                android:id="@+id/textViewCostoEstimado"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:layout_marginTop="10dp"
+                android:text="@string/costo_estimado_formato"
+                android:textColor="@color/azul_oscuro"
+                android:textSize="15sp" />
+
+            <TextView
+                android:id="@+id/textViewIndicadoresTecnicos"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:layout_marginTop="10dp"
+                android:text="@string/indicadores_iniciales"
+                android:textColor="@color/gris_texto"
+                android:textSize="14sp" />
+        </LinearLayout>
+
+    </LinearLayout>
+
+</androidx.core.widget.NestedScrollView>
